@@ -82,7 +82,7 @@ struct ContentView: View {
                 let currentLocation = LocationHelper.currentLocation
                 region = .init(center: .init(latitude: currentLocation.latitude, longitude: currentLocation.longitude), span: MKCoordinateSpan(latitudeDelta: MapDefaults.zoom, longitudeDelta: MapDefaults.zoom))
             }
-            .navigationTitle("Close Friends")
+            .navigationTitle("Closest Friends")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
