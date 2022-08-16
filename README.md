@@ -12,9 +12,14 @@
 Dado dois pontos x e y, sendo representados aqui por latitude e longitude, o app utiliza o algoritmo de Dividir e Conquistar Par de Pontos mais Próximo para encontrar quais amigos moram mais perto. O objetivo do app é conectar os amigos que moram mais perto um do outro, traçando uma rota entre eles e dando instruções de como chegar ao lugar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
+<img src="https://user-images.githubusercontent.com/51761834/184787401-5c0dcceb-4f76-4610-b54a-6caae03b8b42.jpeg" alt="Imagem 1" height="400">
+<img src="https://user-images.githubusercontent.com/51761834/184787652-0d6a6af3-17f5-4a12-bb71-010a0a50c2d2.jpeg" alt="Imagem 2" height="400">
+<img src="https://user-images.githubusercontent.com/51761834/184786698-9a2406c1-56ea-4ca4-aad9-1b91fee69670.PNG" alt="Imagem 3" height="400">
+
+
+## Instalação
+
 **Linguagem**: Swift<br>
 **Framework**: SwiftUI, UIKit, MapKit e CoreLocation<br>
 - macOS Monterey 12.5
