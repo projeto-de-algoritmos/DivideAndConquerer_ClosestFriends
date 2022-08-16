@@ -14,7 +14,14 @@ Dado dois pontos x e y, sendo representados aqui por latitude e longitude, o app
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
-## Instalação 
+
+<img src="https://user-images.githubusercontent.com/51761834/184786681-e6706961-93c4-44af-b543-a9522a9519d1.PNG" alt="Imagem 1" height="400">
+<img src="https://user-images.githubusercontent.com/51761834/184786695-1cf53bdf-9f1a-4468-834b-a0c6e7ac8dce.PNG" alt="Imagem 2" height="400">
+<img src="https://user-images.githubusercontent.com/51761834/184786698-9a2406c1-56ea-4ca4-aad9-1b91fee69670.PNG" alt="Imagem 3" height="400">
+
+
+## Instalação
+
 **Linguagem**: Swift<br>
 **Framework**: SwiftUI, UIKit, MapKit e CoreLocation<br>
 - macOS Monterey 12.5
