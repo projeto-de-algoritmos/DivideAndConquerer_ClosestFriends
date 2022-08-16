@@ -12,8 +12,6 @@
 Dado dois pontos x e y, sendo representados aqui por latitude e longitude, o app utiliza o algoritmo de Dividir e Conquistar Par de Pontos mais Próximo para encontrar quais amigos moram mais perto. O objetivo do app é conectar os amigos que moram mais perto um do outro, traçando uma rota entre eles e dando instruções de como chegar ao lugar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
 
 <img src="https://user-images.githubusercontent.com/51761834/184786681-e6706961-93c4-44af-b543-a9522a9519d1.PNG" alt="Imagem 1" height="400">
 <img src="https://user-images.githubusercontent.com/51761834/184786695-1cf53bdf-9f1a-4468-834b-a0c6e7ac8dce.PNG" alt="Imagem 2" height="400">
