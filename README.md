@@ -28,7 +28,5 @@ Dado dois pontos x e y, sendo representados aqui por latitude e longitude, o app
 ## Uso 
 É necessário conectar um dispositivo físico (iPhone ou iPad) e executar o projeto para que o Xcode faça a instalação no dispositivo. Caso tenha um Mac com processador Apple Silicon, é possível executar a versão para iPad dele. Infelizmente o simulador não se comporta bem em apps que exigem localização, porém há uma chance baixa de ocorrer algum erro. 
 
-
-
-
-
+## Apresentação
+[Apresentação](https://youtu.be/GyAZV6NaAAk)
